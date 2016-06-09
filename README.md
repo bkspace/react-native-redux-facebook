@@ -13,9 +13,9 @@ messiness! Here's a list of what's inside:
 `npm i`
 `react-native run-ios|run-android`
 
-Please see [mirroring.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/mirroring.md)
+Please see [MIRROR.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/MIRROR.md)
 
 ### Testing
 `npm test`
 
-Please see [testing.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/mirroring.md)
+Please see [TESTING.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/TESTING.md)
