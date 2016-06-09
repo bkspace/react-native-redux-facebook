@@ -2,6 +2,12 @@
   "name": "RNBoiler",
   "version": "0.0.1",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkspace/react-native-redux-facebook.git"
+  },
+  "author": "sammy isseyegh <sammyisseyegh@gmail.com>",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "mocha src/**/*.spec.js"
