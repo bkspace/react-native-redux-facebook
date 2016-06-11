@@ -10,8 +10,10 @@ messiness! Here's a list of what's inside:
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 
 ### Installation
-`git clonehttps://github.com/bkspace/react-native-redux-facebook.git`
+`git clone https://github.com/bkspace/react-native-redux-facebook.git`
+
 `npm i`
+
 `react-native run-ios|run-android`
 
 ### Setup
