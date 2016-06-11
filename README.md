@@ -10,12 +10,14 @@ messiness! Here's a list of what's inside:
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 
 ### Installation
+`git clonehttps://github.com/bkspace/react-native-redux-facebook.git`
 `npm i`
 `react-native run-ios|run-android`
 
-Please see [MIRROR.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/MIRROR.md)
+### Setup
+Please see [Setup WIKI](https://github.com/bkspace/react-native-redux-facebook/wiki/Setup), to setup your own project.
 
 ### Testing
 `npm test`
 
-Please see [TESTING.md](https://github.com/bkspace/react-native-redux-facebook/blob/master/TESTING.md)
+Please see [Testing WIKI](https://github.com/bkspace/react-native-redux-facebook/wiki/Testing), for some details on how it works.
