@@ -13,12 +13,12 @@
     "test": "mocha src/**/*.spec.js"
   },
   "dependencies": {
-    "react": "15.0.2",
+    "react": "15.1.0",
     "react-dom": "^15.1.0",
-    "react-native": "0.26.2",
+    "react-native": "^0.28.0",
     "react-native-drawer": "^2.2.3",
     "react-native-fbsdk": "^0.2.1",
-    "react-native-router-flux": "^3.26.0",
+    "react-native-router-flux": "^3.30.1",
     "react-native-spinkit": "^0.1.2",
     "react-native-vector-icons": "^2.0.3",
     "react-redux": "^4.4.5",

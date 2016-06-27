@@ -1,7 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 import { View, Text } from 'react-native';
 import styles from './styles';
-import SideBarTopBar from '../SideBarTopBar';
 import SideBarNav from '../SideBarNav';
 
 class SideBarContent extends Component {
@@ -17,10 +16,6 @@ class SideBarContent extends Component {
     }
     return (
       <View style={styles.contentContainer}>
-        <SideBarTopBar
-          facebookProfile={this.props.facebookProfile}
-          onLogoutPressed={this.onLogoutPressed.bind(this)}
-        />
         <SideBarNav
           {...this.props}
         />

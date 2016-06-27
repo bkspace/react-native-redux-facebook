@@ -5,7 +5,7 @@ export default StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     paddingTop: 15,
-    paddingBottom: 15
+    paddingBottom: 15,
   },
   navRow: {
     flex: 1,
